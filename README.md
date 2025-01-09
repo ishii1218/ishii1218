@@ -50,4 +50,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishii1218&show_icons=true&locale=en" alt="ishii1218" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishii1218&" alt="ishii1218" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishii1218&" alt="ishii1218" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishii1218&show_icons=true&locale=en&layout=compact" alt="ishii1218" /></p>
